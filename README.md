@@ -100,17 +100,37 @@ Built an interactive dashboard featuring:
 
 📁 Dataset
 
+📁 Insights
+
+📁 Power BI Dashboard
+
 📁 Python
 
 📁 SQL Queries
 
-📁 Power BI Dashboard
-
 📁 Screenshots
 
-📁 Insights
-
 📄 README.md
+
+---
+
+## Sample Analysis Outputs
+
+### Customer Segmentation Analysis
+
+![Customer Segmentation](Screenshots/customer_segmentation.png)
+
+### Revenue Analysis
+
+![Revenue Analysis](Screenshots/revenue_analysis.png)
+
+### Top Products by Category
+
+![Top Products](Screenshots/top_products_by_category.png)
+
+### Subscription Analysis
+
+![Subscription Analysis](Screenshots/subscription_analysis.png)
 
 ---
 
